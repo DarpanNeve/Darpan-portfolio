@@ -23,8 +23,6 @@ function App() {
             <Home />
             <About />
             <Services />
-            {/* <Projects /> */}
-            {/* <Contact /> */}
           </div>
         ) : (
           <LoadingScreen />
